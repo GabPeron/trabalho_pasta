@@ -1,0 +1,7 @@
+{
+  "name": "trabalho_pasta",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
